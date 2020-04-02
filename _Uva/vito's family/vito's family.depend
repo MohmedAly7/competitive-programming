@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1469461128 source:c:\users\mohamed ali\c++\vito's family\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+
