@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1472252318 source:c:\users\mohamed ali\c++\a careful approach\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<cstring>
+
+1472252979 source:c:\users\mohamed ali\c++\accepted\a careful approach\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<cstring>
+	<math.h>
+

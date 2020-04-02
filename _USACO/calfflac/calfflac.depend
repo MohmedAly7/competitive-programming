@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1468838393 source:c:\users\mohamed ali\c++\calfflac\main.cpp
+	<iostream>
+	<stdio.h>
+	<ctype.h>
+	<cctype>
+	<string>
+	<algorithm>
+
