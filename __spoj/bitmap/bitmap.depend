@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472945672 source:c:\users\mohamed ali\c++\bitmap\main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+	<stdio.h>
+	<cstring>
+

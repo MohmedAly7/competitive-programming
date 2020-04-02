@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1469668823 source:c:\users\mohamed ali\c++\knapsack\main.cpp
+	<algorithm>
+	<iostream>
+	<cstring>
+

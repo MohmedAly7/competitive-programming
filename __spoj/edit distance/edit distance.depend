@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471720084 source:c:\users\mohamed ali\c++\edit distance\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+

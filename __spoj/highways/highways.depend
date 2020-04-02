@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1472340154 source:c:\users\mohamed ali\c++\highways\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<algorithm>
+	<stdio.h>
+	<cstring>
+
