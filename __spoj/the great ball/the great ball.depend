@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472083210 source:c:\users\mohamed ali\c++\the great ball\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+

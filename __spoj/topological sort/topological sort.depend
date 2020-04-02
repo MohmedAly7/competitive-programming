@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471995113 source:c:\users\mohamed ali\c++\topological sort\main.cpp
+	<iostream>
+	<vector>
+	<set>
+
